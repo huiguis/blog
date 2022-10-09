@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "country": "哥伦比亚",
+      "name": "天堂庄园午夜茉莉",
+      "cost": 110,
+      "weight": "1KG"
     }
   ],
   "profile": {
