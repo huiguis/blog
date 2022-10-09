@@ -6,6 +6,13 @@
       "name": "天堂庄园午夜茉莉",
       "cost": 110,
       "weight": "1KG"
+    },
+    {
+      "id": 2,
+      "country": "巴西",
+      "name": "喜拉多",
+      "cost": 120,
+      "weight": "1KG"
     }
   ],
   "profile": {
